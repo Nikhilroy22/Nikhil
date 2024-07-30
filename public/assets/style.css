@@ -1,0 +1,108 @@
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background: #f0faff;
+}
+
+    .post{
+      border-bottom: 2px solid red;
+    }
+   .kk 
+       {
+         padding: 0;
+         margin-bottom: 8px;
+         color: white;
+         text-align: center;
+         
+         font-size: 2rem;
+         
+        background-color: green;    
+         border: 3px solid red;
+       }
+       
+       .pp{
+         text-align: center;
+       }
+       jj{
+         font-size: 35px;
+         color: red;
+       }
+      .jj {
+         
+         text-align: center;
+         background-color: green;
+         
+            
+       }
+       .he {
+         
+         text-align: center;
+         background-color: green;
+         position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+   
+       }
+  .nj{
+      display: block;
+         font-size: 25px;
+         margin: 8px;
+         font-weight: bold;
+         color: green;
+       }
+      
+       pre {
+         
+            background-color: rgba(247, 248, 249, 1);
+            border: 3px solid rgba(242, 242, 242, 1);
+            display: block;
+            font-size: 1rem;
+            margin: 2rem 0;
+            padding: 1rem 1.5rem;
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+        form{
+          float: center;
+          margin-left: 100px;
+        }
+        input{
+          margin-bottom: 10px;
+          float: center;
+          display: block;
+        }
+        
+        button{
+          margin-left: 70px;
+       color: red;
+       display: block
+       
+     }
+          
+        
+        
+        kk {
+        
+          color: white;
+          text-align: ;
+          
+        }
+        footer{
+          border: 2px solid green;
+          background-color: ;
+          margin-top: 60px;
+          text-align: center;
+        }
+        .pager {
+          text-align-last: center;
+          background-color: green;
+          
+          margin-right: 25px;
+        }
+       
