@@ -1,0 +1,44 @@
+
+footer{
+  margin: 0 0 55px 0;
+}
+.nav{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  height: 50px;
+  box-shadow: 0 0 3px rgba(0.0.0.0.2);
+  background: #464589;
+  overflow-x: auto;
+  display: flex;
+}
+.nav-link{
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  min-width: 50px;
+  overflow: hidden;
+  white-space: nowrap;
+  font-family: Sans-Serif;
+  font-size: 14px;
+  color: #ffffff;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+  
+  transition: background-color 0.1s ease-in-out;
+}
+.nav a:hover {
+  color: #50983df5;
+}
+.nav-icon{
+  font-size: 18px;
+  
+}
+.nav-text{
+  
+  font-weight: bold;
+  font-size: 20px;
+}

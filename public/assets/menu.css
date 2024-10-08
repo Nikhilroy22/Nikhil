@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Sans-Serif;
+  
+ }
+ body{
+   padding: 10px 10px;
+   background-color: #0080006f;
+   
+ }
+ .button {
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    background-color: #1b8720fb;
+    width: 100%;
+    font-size: 25px;
+}
+.pro{
+  text-align: center;
+  border: 1px solid red;
+  background-color: #0080006f;
+  
+}
+.mmm{
+  display: flex;
+  
+  
+}
+.kk{
+  background-color: #f9dddd;
+  border: 1px solid #ffffff57;
+  width: 50%;
+  margin: 5px;
+  font-size: 20px;
+  padding: 20px;
+  
+}

@@ -1,0 +1,124 @@
+@import "navbar.css";
+@import "navmenu.css";
+@import "footer.css";
+
+
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Sans-Serif;
+  text-decoration: none;
+  
+ }
+ .body2{
+   padding: 10px 10px;
+   
+   
+ }
+pre {
+   background-color: #ecb5b5;
+  text-align: center;
+   display: block;
+   font-size: 1rem;
+   margin: 0.5rem 0;
+   padding: 0rem 0.5rem;
+   font-weight: bold;
+   font-size: 20px;
+   white-space: pre-wrap;
+   word-break: break-all;
+   
+ }
+p{
+  
+  color: red;
+}
+.main{
+  
+  padding: 10px 10px;
+}
+ form{
+  padding: 10px 10px;
+  text-align: center;
+  }
+  input{
+  font-size: 20px;
+  display: block;
+  width: 100%;
+  margin-top: 15px;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+    border-radius: 5px;
+    
+  }
+  button {
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    background-color: #4CAF50;
+    width: 100%;
+    font-size: 25px;
+}
+.wrap {
+  gap: 1rem;
+font-size: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.forgot{
+  padding-left: 10px;
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+
+.postview{
+  color: green;
+  white-space: pre-wrap;
+   word-break: break-all;
+  
+}
+.tk{
+  
+  font-weight: bold;
+  font-size: 20px;
+  border: 1px solid #ddd;
+}
+
+button{
+  .color: red;
+  
+  }
+/* The Modal (background) */
+.modalll {
+align-items: center; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 9; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  bottom: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+   /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+.modal-contenttt {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+.closeee {
+  top: 0;
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
